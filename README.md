@@ -44,7 +44,7 @@ Approximate π using a mathematical series and measure execution time.
 Each file must include completed header comments:
 
 ```python
-# Name:
-# Date:
+# Name: Emma Zechmann
+# Date: 2/8/2026
 # Assignment: Lab 3
-# Purpose:
+# Purpose: Lab 3
